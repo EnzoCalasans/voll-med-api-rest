@@ -1,4 +1,4 @@
-// Trecho de código suprimido
+package med.voll.api.domain.consulta;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
